@@ -31,7 +31,7 @@ The dataset is split into 50,000 training images and 10,000 test images. A valid
 * Epochs: 50
 * Data augmentation: random horizontal flips, crops, 15° rotations, and color adjustments (brightness, contrast, saturation)
 
-### Four experimental scenarios were conducted:
+### Four experimental scenarios:
 * Base configuration
 * Base configuration with dropout = 0.3
 * ~820K parameters configuration
@@ -51,3 +51,6 @@ The dataset is split into 50,000 training images and 10,000 test images. A valid
    python main_experiments.py
 
 4. You can use the report.ipynb to check all the results that were saved into the directory specified in main_experiment.
+
+## Download
+[Download PDF](Project-MLPvsCNN.pdf)
