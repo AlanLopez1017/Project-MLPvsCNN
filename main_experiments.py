@@ -82,7 +82,7 @@ def run_experiment(config, saver):
     return exp_dir, all_metrics # Return the directory of the experiment and the metrics
 
 def run():
-    saver = Saver(dir='./experiments_Matched_4_CNN') 
+    saver = Saver(dir='./asd') 
 
     # Base configuration for the experiments
     base_config = {
