@@ -1,0 +1,12 @@
+\begin{table}
+\caption{Comparación de métricas para Augmentation}
+\label{tab:augmentation}
+\begin{tabular}{llrrrrrrrrrrrrr}
+\toprule
+Experiment & Model & Test Accuracy & Test Loss & Precision & Recall & F1 Score & Trainable Params & Total Params & Inference Time (s) & Inference Speed (samples/s) & Final Epoch & Mean Epoch Time (s) & Total Training Time (s) & Best Val Accuracy \\
+\midrule
+Augmentation & MLP & 0.5149 & 1.3625 & 0.5142 & 0.5149 & 0.5131 & 1738890 & 1738890 & 0.6638 & 15064.9138 & 50 & 11.0383 & 552.2236 & 51.5200 \\
+Augmentation & CNN & 0.8198 & 0.5397 & 0.8203 & 0.8198 & 0.8185 & 357258 & 357258 & 0.8352 & 11973.7670 & 50 & 13.4065 & 670.5148 & 82.5500 \\
+\bottomrule
+\end{tabular}
+\end{table}
