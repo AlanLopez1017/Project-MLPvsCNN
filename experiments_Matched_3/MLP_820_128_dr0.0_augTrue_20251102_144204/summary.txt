@@ -1,0 +1,7 @@
+Model: MLP_820
+Total trainable parameters: 820874
+Total Parameters: 820874
+Test Accuracy: 0.50%
+Training Time: 558.24s
+Inference Speed: 13386.51 samples/s
+Best Val Accuracy: 50.18%

@@ -1,0 +1,15 @@
+{
+    "input_size": 3072,
+    "hidden_sizes": [
+        512,
+        256,
+        128
+    ],
+    "output_size": 10,
+    "epochs": 50,
+    "model_name": "MLP",
+    "batch_size": 128,
+    "dropout_rate": 0.3,
+    "augmentation": true,
+    "is_cpu": false
+}

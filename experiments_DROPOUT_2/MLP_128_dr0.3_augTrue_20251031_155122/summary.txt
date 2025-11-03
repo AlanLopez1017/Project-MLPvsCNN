@@ -1,0 +1,7 @@
+Model: MLP
+Total trainable parameters: 1738890
+Total Parameters: 1738890
+Test Accuracy: 0.44%
+Training Time: 573.83s
+Inference Speed: 15098.04 samples/s
+Best Val Accuracy: 44.90%

@@ -1,0 +1,7 @@
+Model: CNN_820
+Total trainable parameters: 824651
+Total Parameters: 824651
+Test Accuracy: 0.84%
+Training Time: 680.13s
+Inference Speed: 11591.17 samples/s
+Best Val Accuracy: 83.78%

@@ -1,0 +1,9 @@
+{
+    "output_size": 10,
+    "epochs": 50,
+    "model_name": "MLP_820",
+    "batch_size": 128,
+    "dropout_rate": 0.0,
+    "augmentation": true,
+    "is_cpu": false
+}

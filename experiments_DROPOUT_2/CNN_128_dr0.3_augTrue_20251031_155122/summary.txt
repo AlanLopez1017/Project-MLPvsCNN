@@ -1,0 +1,7 @@
+Model: CNN
+Total trainable parameters: 357258
+Total Parameters: 357258
+Test Accuracy: 0.81%
+Training Time: 692.98s
+Inference Speed: 10987.62 samples/s
+Best Val Accuracy: 81.44%
