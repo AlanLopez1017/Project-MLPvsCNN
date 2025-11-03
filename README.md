@@ -40,12 +40,14 @@ The dataset is split into 50,000 training images and 10,000 test images. A valid
 ## Usage
 1. Clone this repository:
 
-   git clone 
+   git clone https://github.com/AlanLopez1017/Project-MLPvsCNN.git
 
 3. Install dependencies:
+4. 
    pip install -r requirements.txt
    
-4. Run experiments by selecting the specific experiment in main_experiment:
+5. Run experiments by selecting the specific experiment in main_experiment:
+6. 
    python main_experiments.py
 
-5. You can use the report.ipynb to check all the code to save the results.
+7. You can use the report.ipynb to check all the code to save the results.
