@@ -18,7 +18,7 @@ The dataset is split into 50,000 training images and 10,000 test images. A valid
 * Regularization: Dropout (0.0 or 0.3)\\
 
 ### Convolutional Neural Network (CNN)
-* Three convolutional blocks with Batch Normalization, ReLU, and MaxPooling\\
+* Three convolutional blocks with Batch Normalization, ReLU, and MaxPooling
 * Fully connected layers at the end for classification\\
 * Two main configurations:\\
     * Base architecture (~357K parameters)\\
